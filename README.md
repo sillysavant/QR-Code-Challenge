@@ -75,10 +75,10 @@ These challenges are great for someone who wants to try out their newly-consumed
 
 ### Useful resources
 
-- (https://www.youtube.com/c/TheNetNinja) - Great youtube channel with inspiring lessons
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - Great youtube channel with inspiring lessons
 
 ## Author
-- Frontend Mentor - (https://www.frontendmentor.io/profile/sillysavant)
+- Frontend Mentor - [@sillysavant](https://www.frontendmentor.io/profile/sillysavant)
 
 ## Acknowledgments
 It first got really hard so I kinda checked out a few solutions. Then I see it's not that hard.
